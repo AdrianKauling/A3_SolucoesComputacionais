@@ -34,7 +34,7 @@ Utiliza Java com JDBC para acesso ao banco de dados MySQL.
 
 ## Programas necessários para execução do projeto:
   - MYSQL;
-  - Editor de código ou IDE de prefencia (recomenda-se o Eclipse;
+  - Editor de código ou IDE de prefencia (recomenda-se o Eclipse);
   - JAVA 11;
   - Biblioteca Java externa JDBC;
 
