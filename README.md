@@ -38,6 +38,11 @@
       - ![image](https://github.com/user-attachments/assets/f319b265-d7b9-49f8-a45d-a49e8001d956)
 
   - Feito isso, é só executar o arquivo main.java dentro da pasta "Application";
+      - ![image](https://github.com/user-attachments/assets/7096caca-75cd-4c00-8554-88713b025c23)
+    
+      - ![image](https://github.com/user-attachments/assets/9ebfbbcf-3c97-4145-a142-b6a32b9a69dc)
+
+
 
 
 
