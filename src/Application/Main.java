@@ -1,4 +1,4 @@
-package testSystem;
+package Application;
 
 import BO.Aluno;
 import BO.Treino;
