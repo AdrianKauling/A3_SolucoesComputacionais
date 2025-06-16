@@ -15,6 +15,8 @@ Utiliza Java com JDBC para acesso ao banco de dados MySQL.
     - FabricaDao.java    # Fábrica de DAOs que gerencia a conexão com o banco
   - Application          
     - Main.java          # Classe principal de execução do sistema
+  - database
+    - Conexao.java       # Classe responsável pela conexão com o banco mysql
 
 ##  Funcionalidades
 
