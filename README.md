@@ -6,14 +6,15 @@ Ele permite o cadastro, atualização, recuperação e gerenciamento de dados de
 Utiliza Java com JDBC para acesso ao banco de dados MySQL.
 
 ##  Estrutura do Projeto
-   BO/
-    Aluno.java         # Representa a entidade Aluno
-    Treino.java        # Representa a entidade Treino, associada a um Aluno
-DAO/
-    AlunoDao.java      # DAO para operações CRUD com Aluno
-    TreinoDao.java     # DAO para operações CRUD com Treino
-   FabricaDao.java    # Fábrica de DAOs que gerencia a conexão com o banco
-Main.java              # Classe principal de execução do sistema
+  - BO/
+    - Aluno.java         # Representa a entidade Aluno
+    - Treino.java        # Representa a entidade Treino, associada a um Aluno
+  - DAO/
+    - AlunoDao.java      # DAO para operações CRUD com Aluno
+    - TreinoDao.java     # DAO para operações CRUD com Treino
+    - FabricaDao.java    # Fábrica de DAOs que gerencia a conexão com o banco
+  - Application          
+    - Main.java          # Classe principal de execução do sistema
 
 ##  Funcionalidades
 
